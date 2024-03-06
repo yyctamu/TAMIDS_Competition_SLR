@@ -1,5 +1,5 @@
 # TAMIDS_Competition_SLR
-Please Free to Commit Your Results Here:) 
+Please Feel Free to Commit Your Results Here:) 
 
 Competition Resources: 
 * Technical Orientation Session Video: https://youtu.be/0lePSykH59kLinks
