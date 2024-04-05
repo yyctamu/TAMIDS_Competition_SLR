@@ -10,4 +10,4 @@ Datasets:
   * https://zenodo.org/records/7749568
 * Copernicus
 
-We have tried various attempts (notebooks in this repo). The one that is "finalized" to a model is the SST prediction, of which the notebook is "sst prediction 2.ipynb". "sst prediction 2.ipynb" is heavily relied on https://github.com/yashdeep01/Time-Series-Forecasting/tree/main. 
+We have tried various attempts (notebooks in this repo). The one that is "finalized" to a model is the SST prediction, of which the notebook is "sst_prediction_2.ipynb". "sst prediction 2.ipynb" is heavily relied on https://github.com/yashdeep01/Time-Series-Forecasting/tree/main. 
